@@ -17,6 +17,18 @@ Printed adapter installed — LEDs look much cleaner now!
 ### Design Model
 ![FreeCAD model](pics/fjt-freecad.png)
 
+## 3D Printed Adapter Details
+
+The adapter isolates each LED on the [Adafruit Fruit Jam](https://www.adafruit.com/product/5900), preventing light bleed and giving a clean, even glow through the cover plate.
+
+### Print Views
+| Top View | Bottom View |
+|-----------|--------------|
+| ![Top view of 3D printed adapter](pics/fjt-3dp-top.jpeg) | ![Bottom view of 3D printed adapter](pics/fjt-3dp-btm.jpeg) |
+
+### Design Preview
+![FreeCAD rotating view of the adapter](pics/fjt-freecad-rotate.gif)
+
 ### Hardware Used
 
 | Item | Description | Link |
