@@ -1,6 +1,6 @@
 # Fruit Jam Light Tunnel
 
-[@b-blake](https://github.com/b-blake) noticed that the [Adafruit Fruit Jam](https://www.adafruit.com/product/5900) had a bit of light bleed between the built-in LEDs that shows through the default cover plate. We came up with a simple 3D print project to isolate the light from each LED into its own channel.
+[@b-blake](https://github.com/b-blake) or [@blakebr](https://forums.adafruit.com/memberlist.php?mode=viewprofile&u=48200) noticed that the [Adafruit Fruit Jam](https://www.adafruit.com/product/5900) had a bit of light bleed between the built-in LEDs that shows through the default cover plate. We came up with a simple 3D print project to isolate the light from each LED into its own channel.
 
 The 3 mm heat-set insert and fourth corner screw are optional, but help secure the cover plate.
 
